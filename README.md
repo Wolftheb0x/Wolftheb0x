@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolftheb0x
 - 👀 I’m interested in programing and linux
-- 🌱 I’m currently learning uk scotalnd
+- 🌱 I’m currently learning c++/c#
 - 💞️ I’m looking to collaborate on the linux kernel
 - 📫 How to reach me ezywolf858@petalmail.com
 
